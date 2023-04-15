@@ -1,0 +1,30 @@
+D:\Documents\Visual Studio 2012\Projects\WebService2019\WebService2019\bin\DBClass.dll
+D:\Documents\Visual Studio 2012\Projects\WebService2019\WebService2019\bin\TestClass.dll
+D:\Documents\Visual Studio 2012\Projects\WebService2019\WebService2019\bin\DBClass.pdb
+D:\Documents\Visual Studio 2012\Projects\WebService2019\WebService2019\bin\TestClass.pdb
+D:\Documents\Visual Studio 2012\Projects\WebService2019\WebService2019\obj\Debug\DMPinterface.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\WebService2019\WebService2019\bin\DMPinterface.dll
+D:\Documents\Visual Studio 2012\Projects\WebService2019\WebService2019\bin\DMPinterface.pdb
+D:\Documents\Visual Studio 2012\Projects\WebService2019\WebService2019\obj\Debug\DMPinterface.dll
+D:\Documents\Visual Studio 2012\Projects\WebService2019\WebService2019\obj\Debug\DMPinterface.pdb
+E:\Program Files\VS2012\WebService2019\WebService2019\bin\DMPinterface.dll
+E:\Program Files\VS2012\WebService2019\WebService2019\bin\DMPinterface.pdb
+E:\Program Files\VS2012\WebService2019\WebService2019\bin\DBClass.dll
+E:\Program Files\VS2012\WebService2019\WebService2019\bin\TestClass.dll
+E:\Program Files\VS2012\WebService2019\WebService2019\bin\DBClass.pdb
+E:\Program Files\VS2012\WebService2019\WebService2019\bin\TestClass.pdb
+E:\Program Files\VS2012\WebService2019\WebService2019\obj\Debug\DMPinterface.csprojResolveAssemblyReference.cache
+E:\Program Files\VS2012\WebService2019\WebService2019\obj\Debug\DMPinterface.dll
+E:\Program Files\VS2012\WebService2019\WebService2019\obj\Debug\DMPinterface.pdb
+D:\BaiduNetdiskDownload\WebService2019\WebService2019\bin\DMPinterface.dll.config
+D:\BaiduNetdiskDownload\WebService2019\WebService2019\bin\DMPinterface.dll
+D:\BaiduNetdiskDownload\WebService2019\WebService2019\bin\DMPinterface.pdb
+D:\BaiduNetdiskDownload\WebService2019\WebService2019\bin\DBClass.dll
+D:\BaiduNetdiskDownload\WebService2019\WebService2019\bin\TestClass.dll
+D:\BaiduNetdiskDownload\WebService2019\WebService2019\bin\DBClass.pdb
+D:\BaiduNetdiskDownload\WebService2019\WebService2019\bin\TestClass.pdb
+D:\BaiduNetdiskDownload\WebService2019\WebService2019\obj\Debug\DMPinterface.csproj.AssemblyReference.cache
+D:\BaiduNetdiskDownload\WebService2019\WebService2019\obj\Debug\DMPinterface.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\WebService2019\WebService2019\obj\Debug\DMPinterface.csproj.CopyComplete
+D:\BaiduNetdiskDownload\WebService2019\WebService2019\obj\Debug\DMPinterface.dll
+D:\BaiduNetdiskDownload\WebService2019\WebService2019\obj\Debug\DMPinterface.pdb

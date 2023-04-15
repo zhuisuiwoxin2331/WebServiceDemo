@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2012\Projects\WebService2019\WebService2019\bin\WebService2019.dll
+D:\Documents\Visual Studio 2012\Projects\WebService2019\WebService2019\bin\WebService2019.pdb
+D:\Documents\Visual Studio 2012\Projects\WebService2019\WebService2019\bin\DBClass.dll
+D:\Documents\Visual Studio 2012\Projects\WebService2019\WebService2019\bin\TestClass.dll
+D:\Documents\Visual Studio 2012\Projects\WebService2019\WebService2019\bin\DBClass.pdb
+D:\Documents\Visual Studio 2012\Projects\WebService2019\WebService2019\bin\TestClass.pdb
+D:\Documents\Visual Studio 2012\Projects\WebService2019\WebService2019\obj\Debug\WebService2019.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\WebService2019\WebService2019\obj\Debug\WebService2019.dll
+D:\Documents\Visual Studio 2012\Projects\WebService2019\WebService2019\obj\Debug\WebService2019.pdb
