@@ -1,0 +1,13 @@
+D:\Documents\Visual Studio 2012\Projects\WebService2019\TestForm\bin\Debug\TestForm.exe.config
+D:\Documents\Visual Studio 2012\Projects\WebService2019\TestForm\bin\Debug\TestForm.exe
+D:\Documents\Visual Studio 2012\Projects\WebService2019\TestForm\bin\Debug\TestForm.pdb
+D:\Documents\Visual Studio 2012\Projects\WebService2019\TestForm\bin\Debug\DBClass.dll
+D:\Documents\Visual Studio 2012\Projects\WebService2019\TestForm\bin\Debug\TestClass.dll
+D:\Documents\Visual Studio 2012\Projects\WebService2019\TestForm\bin\Debug\DBClass.pdb
+D:\Documents\Visual Studio 2012\Projects\WebService2019\TestForm\bin\Debug\TestClass.pdb
+D:\Documents\Visual Studio 2012\Projects\WebService2019\TestForm\obj\Debug\TestForm.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\WebService2019\TestForm\obj\Debug\TestForm.Form1.resources
+D:\Documents\Visual Studio 2012\Projects\WebService2019\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\WebService2019\TestForm\obj\Debug\TestForm.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\WebService2019\TestForm\obj\Debug\TestForm.exe
+D:\Documents\Visual Studio 2012\Projects\WebService2019\TestForm\obj\Debug\TestForm.pdb
