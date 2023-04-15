@@ -1,0 +1,39 @@
+D:\Documents\Visual Studio 2012\Projects\WebService2019\MainTest\bin\Debug\MainTest.exe.config
+D:\Documents\Visual Studio 2012\Projects\WebService2019\MainTest\bin\Debug\MainTest.exe
+D:\Documents\Visual Studio 2012\Projects\WebService2019\MainTest\bin\Debug\MainTest.pdb
+D:\Documents\Visual Studio 2012\Projects\WebService2019\MainTest\bin\Debug\TestClass.dll
+D:\Documents\Visual Studio 2012\Projects\WebService2019\MainTest\bin\Debug\DBClass.dll
+D:\Documents\Visual Studio 2012\Projects\WebService2019\MainTest\bin\Debug\TestClass.pdb
+D:\Documents\Visual Studio 2012\Projects\WebService2019\MainTest\bin\Debug\DBClass.pdb
+D:\Documents\Visual Studio 2012\Projects\WebService2019\MainTest\obj\Debug\MainTest.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\WebService2019\MainTest\obj\Debug\MainTest.exe
+D:\Documents\Visual Studio 2012\Projects\WebService2019\MainTest\obj\Debug\MainTest.pdb
+D:\Documents\Visual Studio 2012\Projects\WebService2019\MainTest\bin\Debug\DMPinterface.dll
+D:\Documents\Visual Studio 2012\Projects\WebService2019\MainTest\bin\Debug\DMPinterface.pdb
+E:\Program Files\VS2012\WebService2019\MainTest\bin\Debug\MainTest.exe.config
+E:\Program Files\VS2012\WebService2019\MainTest\obj\Debug\MainTest.exe
+E:\Program Files\VS2012\WebService2019\MainTest\obj\Debug\MainTest.pdb
+E:\Program Files\VS2012\WebService2019\MainTest\bin\Debug\MainTest.exe
+E:\Program Files\VS2012\WebService2019\MainTest\bin\Debug\MainTest.pdb
+E:\Program Files\VS2012\WebService2019\MainTest\bin\Debug\DBClass.dll
+E:\Program Files\VS2012\WebService2019\MainTest\bin\Debug\DMPinterface.dll
+E:\Program Files\VS2012\WebService2019\MainTest\bin\Debug\TestClass.dll
+E:\Program Files\VS2012\WebService2019\MainTest\bin\Debug\DBClass.pdb
+E:\Program Files\VS2012\WebService2019\MainTest\bin\Debug\TestClass.pdb
+E:\Program Files\VS2012\WebService2019\MainTest\bin\Debug\DMPinterface.pdb
+E:\Program Files\VS2012\WebService2019\MainTest\obj\Debug\MainTest.csprojResolveAssemblyReference.cache
+D:\BaiduNetdiskDownload\WebService2019\MainTest\bin\Debug\MainTest.exe.config
+D:\BaiduNetdiskDownload\WebService2019\MainTest\bin\Debug\MainTest.exe
+D:\BaiduNetdiskDownload\WebService2019\MainTest\bin\Debug\MainTest.pdb
+D:\BaiduNetdiskDownload\WebService2019\MainTest\bin\Debug\DBClass.dll
+D:\BaiduNetdiskDownload\WebService2019\MainTest\bin\Debug\DMPinterface.dll
+D:\BaiduNetdiskDownload\WebService2019\MainTest\bin\Debug\TestClass.dll
+D:\BaiduNetdiskDownload\WebService2019\MainTest\bin\Debug\DBClass.pdb
+D:\BaiduNetdiskDownload\WebService2019\MainTest\bin\Debug\TestClass.pdb
+D:\BaiduNetdiskDownload\WebService2019\MainTest\bin\Debug\DMPinterface.pdb
+D:\BaiduNetdiskDownload\WebService2019\MainTest\bin\Debug\DMPinterface.dll.config
+D:\BaiduNetdiskDownload\WebService2019\MainTest\obj\Debug\MainTest.csproj.AssemblyReference.cache
+D:\BaiduNetdiskDownload\WebService2019\MainTest\obj\Debug\MainTest.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\WebService2019\MainTest\obj\Debug\MainTest.csproj.CopyComplete
+D:\BaiduNetdiskDownload\WebService2019\MainTest\obj\Debug\MainTest.exe
+D:\BaiduNetdiskDownload\WebService2019\MainTest\obj\Debug\MainTest.pdb

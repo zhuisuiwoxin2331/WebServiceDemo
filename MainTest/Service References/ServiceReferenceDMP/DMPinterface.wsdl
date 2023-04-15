@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="HelloWorld">
+        <s:complexType />
+      </s:element>
+      <s:element name="HelloWorldResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="HelloWorldResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Print">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="str" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="PrintResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="PrintResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DMPProtocol">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="xmlData" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DMPProtocolResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="DMPProtocolResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DbTest">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="str" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DbTestResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="DbTestResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="HelloWorldSoapIn">
+    <wsdl:part name="parameters" element="tns:HelloWorld" />
+  </wsdl:message>
+  <wsdl:message name="HelloWorldSoapOut">
+    <wsdl:part name="parameters" element="tns:HelloWorldResponse" />
+  </wsdl:message>
+  <wsdl:message name="PrintSoapIn">
+    <wsdl:part name="parameters" element="tns:Print" />
+  </wsdl:message>
+  <wsdl:message name="PrintSoapOut">
+    <wsdl:part name="parameters" element="tns:PrintResponse" />
+  </wsdl:message>
+  <wsdl:message name="DMPProtocolSoapIn">
+    <wsdl:part name="parameters" element="tns:DMPProtocol" />
+  </wsdl:message>
+  <wsdl:message name="DMPProtocolSoapOut">
+    <wsdl:part name="parameters" element="tns:DMPProtocolResponse" />
+  </wsdl:message>
+  <wsdl:message name="DbTestSoapIn">
+    <wsdl:part name="parameters" element="tns:DbTest" />
+  </wsdl:message>
+  <wsdl:message name="DbTestSoapOut">
+    <wsdl:part name="parameters" element="tns:DbTestResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WebService2019Soap">
+    <wsdl:operation name="HelloWorld">
+      <wsdl:input message="tns:HelloWorldSoapIn" />
+      <wsdl:output message="tns:HelloWorldSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Print">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">判断 输出</wsdl:documentation>
+      <wsdl:input message="tns:PrintSoapIn" />
+      <wsdl:output message="tns:PrintSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DMPProtocol">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">写入XML数据</wsdl:documentation>
+      <wsdl:input message="tns:DMPProtocolSoapIn" />
+      <wsdl:output message="tns:DMPProtocolSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DbTest">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">TEST数据库</wsdl:documentation>
+      <wsdl:input message="tns:DbTestSoapIn" />
+      <wsdl:output message="tns:DbTestSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WebService2019Soap" type="tns:WebService2019Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Print">
+      <soap:operation soapAction="http://tempuri.org/Print" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DMPProtocol">
+      <soap:operation soapAction="http://tempuri.org/DMPProtocol" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DbTest">
+      <soap:operation soapAction="http://tempuri.org/DbTest" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WebService2019Soap12" type="tns:WebService2019Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap12:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Print">
+      <soap12:operation soapAction="http://tempuri.org/Print" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DMPProtocol">
+      <soap12:operation soapAction="http://tempuri.org/DMPProtocol" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DbTest">
+      <soap12:operation soapAction="http://tempuri.org/DbTest" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WebService2019">
+    <wsdl:port name="WebService2019Soap" binding="tns:WebService2019Soap">
+      <soap:address location="http://localhost:65509/DMPinterface.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WebService2019Soap12" binding="tns:WebService2019Soap12">
+      <soap12:address location="http://localhost:65509/DMPinterface.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
