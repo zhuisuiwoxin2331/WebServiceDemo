@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2012\Projects\WebService2019\DBClass\bin\Release\DBClass.dll
+D:\Documents\Visual Studio 2012\Projects\WebService2019\DBClass\bin\Release\DBClass.pdb
+D:\Documents\Visual Studio 2012\Projects\WebService2019\DBClass\obj\Release\DBClass.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\WebService2019\DBClass\obj\Release\DBClass.dll
+D:\Documents\Visual Studio 2012\Projects\WebService2019\DBClass\obj\Release\DBClass.pdb

@@ -1,0 +1,15 @@
+D:\Documents\Visual Studio 2012\Projects\WebService2019\DBClass\bin\Debug\DBClass.dll
+D:\Documents\Visual Studio 2012\Projects\WebService2019\DBClass\bin\Debug\DBClass.pdb
+D:\Documents\Visual Studio 2012\Projects\WebService2019\DBClass\obj\Debug\DBClass.dll
+D:\Documents\Visual Studio 2012\Projects\WebService2019\DBClass\obj\Debug\DBClass.pdb
+E:\Program Files\VS2012\WebService2019\DBClass\bin\Debug\DBClass.dll
+E:\Program Files\VS2012\WebService2019\DBClass\bin\Debug\DBClass.pdb
+E:\Program Files\VS2012\WebService2019\DBClass\obj\Debug\DBClass.csprojResolveAssemblyReference.cache
+E:\Program Files\VS2012\WebService2019\DBClass\obj\Debug\DBClass.dll
+E:\Program Files\VS2012\WebService2019\DBClass\obj\Debug\DBClass.pdb
+D:\BaiduNetdiskDownload\WebService2019\DBClass\bin\Debug\DBClass.dll
+D:\BaiduNetdiskDownload\WebService2019\DBClass\bin\Debug\DBClass.pdb
+D:\BaiduNetdiskDownload\WebService2019\DBClass\obj\Debug\DBClass.csproj.AssemblyReference.cache
+D:\BaiduNetdiskDownload\WebService2019\DBClass\obj\Debug\DBClass.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\WebService2019\DBClass\obj\Debug\DBClass.dll
+D:\BaiduNetdiskDownload\WebService2019\DBClass\obj\Debug\DBClass.pdb
